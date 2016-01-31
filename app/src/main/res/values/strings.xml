@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pingppdemo2</string>
+    <string name="amount">Amount to pay</string>
+    <string name="alipay">Alipay</string>
+    <string name="wechat">WeChat</string>
+    <string name="upmp">UnionPay</string>
+    <string name="nextPage">Next Page</string>
+    <string name="amount_fr">Montant à payer</string>
+    <string name="app_name_fr">Démonstration de test</string>
+</resources>
